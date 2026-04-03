@@ -1,5 +1,7 @@
 ## 𝐋𝐞𝐨𝐧𝐭𝐞 𝐏𝐚𝐭𝐫𝐢𝐜𝐢𝐚-𝐌𝐢𝐫𝐚𝐛𝐞𝐥𝐚
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/patriciamirabelaleonte)
+
 ### 𝓉𝑒𝒽𝓃𝑜𝓁𝑜𝑔𝒾𝒾 𝓈𝒾 𝒾𝓃𝓈𝓉𝓇𝓊𝓂𝑒𝓃𝓉𝑒
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
