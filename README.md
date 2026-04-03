@@ -8,4 +8,4 @@
 ![Git](https://img.shields.io/badge/git-%234F4F4F.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
- [![LinkedIn](https://img.shields.io/badge/linkedin-%23FFFFFF.svg?style=for-the-badge&logo=linkedin&logoColor=%23FF69B4)](https://www.linkedin.com/in/patriciamirabelaleonte/)
+ <h3 align="center"> [![LinkedIn](https://img.shields.io/badge/linkedin-%23FFFFFF.svg?style=for-the-badge&logo=linkedin&logoColor=%23FF69B4)](https://www.linkedin.com/in/patriciamirabelaleonte/)
