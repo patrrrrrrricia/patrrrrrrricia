@@ -1,6 +1,6 @@
 ## 𝐋𝐞𝐨𝐧𝐭𝐞 𝐏𝐚𝐭𝐫𝐢𝐜𝐢𝐚-𝐌𝐢𝐫𝐚𝐛𝐞𝐥𝐚
 
-### 🛠 Tehnologii și Instrumente
+### 𝓉𝑒𝒽𝓃𝑜𝓁𝑜𝑔𝒾𝒾 ș𝒾 𝒾𝓃𝓈𝓉𝓇𝓊𝓂𝑒𝓃𝓉𝑒
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
