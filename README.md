@@ -3,9 +3,9 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/patriciamirabelaleonte)
 
 ### 𝓉𝑒𝒽𝓃𝑜𝓁𝑜𝑔𝒾𝒾 𝓈𝒾 𝒾𝓃𝓈𝓉𝓇𝓊𝓂𝑒𝓃𝓉𝑒
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23FF69B4.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%23FFB6C1.svg?style=for-the-badge&logo=spring&logoColor=black)
+![Python](https://img.shields.io/badge/python-%234F4F4F.svg?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%23FF69B4.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23FFB6C1.svg?style=for-the-badge&logo=django&logoColor=black)
+![Git](https://img.shields.io/badge/git-%234F4F4F.svg?style=for-the-badge&logo=git&logoColor=white)
