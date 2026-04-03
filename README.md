@@ -7,6 +7,5 @@
 ![Django](https://img.shields.io/badge/django-%23FFB6C1.svg?style=for-the-badge&logo=django&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%234F4F4F.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<p align="center">
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%23FFFFFF.svg?style=for-the-badge&logo=linkedin&logoColor=%23FF69B4)](https://www.linkedin.com/in/patriciamirabelaleonte/)
-</p>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%23FFFFFF.svg?style=for-the-badge&logo=linkedin&logoColor=%23FF69B4)](https://www.linkedin.com/in/patriciamirabelaleonte/)
+
