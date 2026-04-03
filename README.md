@@ -8,7 +8,7 @@
 <br>
 
 <a href="https://www.linkedin.com/in/patriciamirabelaleonte/">
-  <img src="https://img.shields.io/badge/LINKEDIN-%23FFFFFF.svg?style=for-the-badge&logo=linkedin&logoColor=%23FF69B4" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LINKEDIN-white?style=for-the-badge&logo=linkedin&logoColor=%23FF69B4" alt="LinkedIn">
 </a>
 
 </div>
