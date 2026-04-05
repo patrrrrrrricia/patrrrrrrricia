@@ -14,11 +14,4 @@
   <img src="https://img.shields.io/badge/LINKEDIN-%23FFFFFF?style=for-the-badge&logo=linkedin&logoColor=%23FF69B4" alt="LinkedIn">
 </a>
 
-<details>
-  <summary><b></b></summary>
-  <br>
- <img width="240" height="300" alt="image" src="https://github.com/user-attachments/assets/569ce3f6-e150-4b59-acbc-7f97c6480aae" />
 
-</details>
-
-</div>
