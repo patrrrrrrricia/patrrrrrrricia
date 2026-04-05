@@ -17,7 +17,7 @@
 <br><br>
 
 <details>
-  <summary><b>🎀 Click to view my Quick Git Guide</b></summary>
+  <summary><b></b></summary>
   <br>
   <img src="https://github.com/user-attachments/assets/e49fe505-ded7-40d0-bcba-57bce733be5c" alt="Git Commands Guide" width="600px">
 </details>
