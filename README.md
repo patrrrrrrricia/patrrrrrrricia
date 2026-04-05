@@ -16,9 +16,3 @@
 
 </div>
 
----
-
-### 🤍 Core Functionality
-* **Frontend:** HTML5, CSS3
-* **Frameworks:** Mobirise (Bootstrap-based)
-* **Design:** Responsive Web Design
