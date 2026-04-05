@@ -6,13 +6,17 @@
 ![Java](https://img.shields.io/badge/java-%23FF69B4.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%23FFB6C1.svg?style=for-the-badge&logo=spring&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-%234F4F4F.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-%23FF69B4.svg?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/django-%23FFB6C1.svg?style=for-the-badge&logo=django&logoColor=black) ![VHDL](https://img.shields.io/badge/VHDL-%234F4F4F.svg?style=for-the-badge&logo=circuitpython&logoColor=white) ![Xilinx](https://img.shields.io/badge/Xilinx-%23FF69B4.svg?style=for-the-badge&logo=xilinx&logoColor=white)
 
 ### 𝓕𝓻𝓸𝓷𝓽𝓮𝓷𝓭 & 𝓓𝓮𝓼𝓲𝓰𝓷 
-![HTML](https://img.shields.io/badge/HTML-%234F4F4F.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-%234F4F4F.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-%234F4F4F.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Git](https://img.shields.io/badge/git-%234F4F4F.svg?style=for-the-badge&logo=git&logoColor=white) ![Git Commands Guide]![git commands (1)](https://github.com/user-attachments/assets/e49fe505-ded7-40d0-bcba-57bce733be5c)
-
+![HTML](https://img.shields.io/badge/HTML-%234F4F4F.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-%234F4F4F.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-%234F4F4F.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Git](https://img.shields.io/badge/git-%234F4F4F.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <br>
 
 <a href="https://www.linkedin.com/in/patriciamirabelaleonte/">
   <img src="https://img.shields.io/badge/LINKEDIN-%23FFFFFF?style=for-the-badge&logo=linkedin&logoColor=%23FF69B4" alt="LinkedIn">
 </a>
+
+<br><br>
+
+### 🎀 Quick Git Guide
+![Git Commands Guide](https://github.com/user-attachments/assets/e49fe505-ded7-40d0-bcba-57bce733be5c)
 
 </div>
