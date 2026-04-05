@@ -14,8 +14,6 @@
   <img src="https://img.shields.io/badge/LINKEDIN-%23FFFFFF?style=for-the-badge&logo=linkedin&logoColor=%23FF69B4" alt="LinkedIn">
 </a>
 
-<br><br>
-
 <details>
   <summary><b></b></summary>
   <br>
