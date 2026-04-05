@@ -16,7 +16,10 @@
 
 <br><br>
 
-### 🎀 Quick Git Guide
-![Git Commands Guide](https://github.com/user-attachments/assets/e49fe505-ded7-40d0-bcba-57bce733be5c)
+<details>
+  <summary><b>🎀 Click to view my Quick Git Guide</b></summary>
+  <br>
+  <img src="https://github.com/user-attachments/assets/e49fe505-ded7-40d0-bcba-57bce733be5c" alt="Git Commands Guide" width="600px">
+</details>
 
 </div>
