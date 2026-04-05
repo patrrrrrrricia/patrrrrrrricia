@@ -17,7 +17,8 @@
 <details>
   <summary><b></b></summary>
   <br>
-  <img src="https://github.com/user-attachments/assets/e49fe505-ded7-40d0-bcba-57bce733be5c" alt="Git Commands Guide" width="600px">
+ <img width="625" height="680" alt="image" src="https://github.com/user-attachments/assets/569ce3f6-e150-4b59-acbc-7f97c6480aae" />
+
 </details>
 
 </div>
