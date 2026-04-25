@@ -1,8 +1,8 @@
 <div align="center">
 
-# 𝓑𝓪𝓬𝓴𝓮𝓷𝓭 & 𝓔𝓷𝓰𝓲𝓷𝓮𝓮𝓻𝓲𝓷𝓰
+# P Λ T R I C I Λㅤ M I R Λ B E L Λㅤ L E O N T E
 
-### 𝐵𝒶𝒸𝓀𝑒𝓃𝒹 & 𝐸𝓃𝑔𝒾𝓃𝑒𝑒𝓇𝒾𝓃𝑔
+### 𝓑𝓪𝓬𝓴𝓮𝓷𝓭 & 𝓔𝓷𝓰𝓲𝓷𝓮𝓮𝓻𝓲𝓷𝓰
 ![Java](https://img.shields.io/badge/java-%23FF69B4.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%23FFB6C1.svg?style=for-the-badge&logo=spring&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-%234F4F4F.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-%23FF69B4.svg?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/django-%23FFB6C1.svg?style=for-the-badge&logo=django&logoColor=black) ![VHDL](https://img.shields.io/badge/VHDL-%234F4F4F.svg?style=for-the-badge&logo=circuitpython&logoColor=white) ![Xilinx](https://img.shields.io/badge/Xilinx-%23FF69B4.svg?style=for-the-badge&logo=xilinx&logoColor=white)
 
 ### 𝓕𝓻𝓸𝓷𝓽𝓮𝓷𝓭 & 𝓓𝓮𝓼𝓲𝓰𝓷 
