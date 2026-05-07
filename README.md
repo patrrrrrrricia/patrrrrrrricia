@@ -10,10 +10,10 @@
 
 <br>
 
-<a href="[LINKEDIN]https://www.linkedin.com/in/patriciamirabelaleonte/">
+<a href="https://www.linkedin.com/in/patriciamirabelaleonte/">
   <img src="https://img.shields.io/badge/LINKEDIN-%23FFFFFF?style=for-the-badge&logo=linkedin&logoColor=%23FF69B4" alt="LinkedIn">
 </a>
-<a href="[DRIBBBLE](https://dribbble.com/patrrrrrrricia)">
+<a href="(https://dribbble.com/patrrrrrrricia)">
   <img src="https://img.shields.io/badge/DRIBBBLE-%23FFFFFF?style=for-the-badge&logo=dribbble&logoColor=%23EA4C89" alt="Dribbble">
 </a>
 
