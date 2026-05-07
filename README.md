@@ -11,9 +11,11 @@
 <br>
 
 <a href="https://www.linkedin.com/in/patriciamirabelaleonte/">
-  <img src="[https://img.shields.io/badge/LINKEDIN-%23FFFFFF?style=for-the-badge&logo=linkedin&logoColor=%23FF69B4](https://img.shields.io/badge/LINKEDIN-white?style=for-the-badge&logo=linkedin&logoColor=hotpink)" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LINKEDIN-white?style=for-the-badge&logo=linkedin&logoColor=%23FF69B4" alt="LinkedIn">
 </a>
-<a href="(https://dribbble.com/patrrrrrrricia)">
-  <img src="https://img.shields.io/badge/DRIBBBLE-%23FFFFFF?style=for-the-badge&logo=dribbble&logoColor=%23EA4C89" alt="Dribbble">
+<a href="https://dribbble.com/patrrrrrrricia">
+  <img src="https://img.shields.io/badge/DRIBBBLE-white?style=for-the-badge&logo=dribbble&logoColor=%23EA4C89" alt="Dribbble">
 </a>
+
+</div>
 
