@@ -17,3 +17,4 @@
   <img src="https://img.shields.io/badge/DRIBBBLE-%23FFFFFF?style=for-the-badge&logo=dribbble&logoColor=%23EA4C89" alt="Dribbble">
 </a>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrrrrrrrricia&layout=compact&theme=vision-friendly-dark&color_title=FF69B4&hide_border=true)
