@@ -19,12 +19,16 @@
 
 <br>
 
+<div align="center">
+
 <a href="https://www.linkedin.com/in/patriciamirabelaleonte/">
-  <img src="https://img.shields.io/badge/LINKEDIN-white?style=for-the-badge&logo=linkedin&logoColor=%23FF69B4" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LINKEDIN-4F4F4F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="https://dribbble.com/patrrrrrrricia">
-  <img src="https://img.shields.io/badge/DRIBBBLE-white?style=for-the-badge&logo=dribbble&logoColor=%23EA4C89" alt="Dribbble">
+  <img src="https://img.shields.io/badge/DRIBBBLE-4F4F4F?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble">
 </a>
+
+</div>
 
 </div>
 
