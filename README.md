@@ -8,3 +8,4 @@
 ### 𝓕𝓻𝓸𝓷𝓽𝓮𝓷𝓭 & 𝓓𝓮𝓼𝓲𝓰𝓷 
 ![HTML](https://img.shields.io/badge/HTML-%234F4F4F.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-%234F4F4F.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-%234F4F4F.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Git](https://img.shields.io/badge/git-%234F4F4F.svg?style=for-the-badge&logo=git&logoColor=white)
 
+</div>
