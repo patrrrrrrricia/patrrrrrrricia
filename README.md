@@ -8,13 +8,11 @@
 ### 𝓕𝓻𝓸𝓷𝓽𝓮𝓷𝓭 & 𝓓𝓮𝓼𝓲𝓰𝓷 
 ![HTML](https://img.shields.io/badge/HTML-%234F4F4F.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-%234F4F4F.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-%234F4F4F.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Git](https://img.shields.io/badge/git-%234F4F4F.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<br>
-
 <a href="https://www.linkedin.com/in/patriciamirabelaleonte/">
-  <img src="https://img.shields.io/badge/LINKEDIN-FFFFFF-4F4F4F?style=for-the-badge&logo=linkedin&logoColor=black">
+  <img src="https://img.shields.io/badge/LINKEDIN-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=FFFFFF&color=FFFFFF">
 </a>
 <a href="https://dribbble.com/patrrrrrrricia">
-  <img src="https://img.shields.io/badge/DRIBBBLE-FFFFFF-4F4F4F?style=for-the-badge&logo=dribbble&logoColor=black">
+  <img src="https://img.shields.io/badge/DRIBBBLE-FFFFFF?style=for-the-badge&logo=dribbble&logoColor=black&labelColor=FFFFFF&color=FFFFFF">
 </a>
 
 </div>
