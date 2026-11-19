@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="./banner.svg" alt="Patricia Mirabela Leonte" width="80%" />
+  <img src="./banner.svg" alt="Patricia Mirabela Leonte" width="100%" />
   
 ---
 
