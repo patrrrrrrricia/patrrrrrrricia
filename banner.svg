@@ -1,47 +1,12 @@
-<svg width="850" height="165" viewBox="0 0 850 165" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    @keyframes fadeAndSlide {
-      0% {
-        opacity: 0;
-        transform: translateY(8px);
-      }
-      100% {
-        opacity: 1;
-        transform: translateY(0);
-      }
-    }
-
-    @keyframes pulseGlow {
-      0%, 100% {
-        opacity: 0.75;
-      }
-      50% {
-        opacity: 1;
-      }
-    }
-
-    .bg-rect {
-      animation: pulseGlow 6s ease-in-out infinite;
-    }
-
-    .title-text {
-      animation: fadeAndSlide 2s ease-out forwards;
-    }
-  </style>
-
-  <defs>
-    <linearGradient id="grad" x1="15%" y1="10%" x2="100%" y2="90%">
-      <stop offset="0%" stop-color="#141414" />
-      <stop offset="45%" stop-color="#3B3B3B" />
-      <stop offset="100%" stop-color="#ECCACB" />
-    </linearGradient>
-  </defs>
-
-  <!-- fundal cu pulsare lenta -->
-  <rect class="bg-rect" width="850" height="165" rx="24" fill="url(#grad)" />
-
-  <!-- text cu aparitie lenta (fade-in) -->
-  <text class="title-text" x="50%" y="52%" dominant-baseline="middle" text-anchor="middle" fill="#FCFAFA" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif" font-size="40" font-weight="700" letter-spacing="-0.5">
-    𝐏𝐚𝐭𝐫𝐢𝐜𝐢𝐚 𝐌𝐢𝐫𝐚𝐛𝐞𝐥𝐚 𝐋𝐞𝐨𝐧𝐭𝐞
-  </text>
+<stop offset="100%" stop-color="#ECCACB" />
+</linearGradient>
+</defs>
+  
+<rect width="850" height="165" rx="24" fill="url(#grad)" />
+  <text x="50%" y="52%" dominant-baseline="middle" text-anchor="middle" fill="#FCFAFA" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif" font-size="40" font-weight="700" letter-spacing="-0.5">
+  
+  <text x="50%" y="52%" dominant-baseline="middle" text-anchor="middle" fill="#FCFAFA" opacity="0" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif" font-size="40" font-weight="700" letter-spacing="-0.5">
+𝐏𝐚𝐭𝐫𝐢𝐜𝐢𝐚 𝐌𝐢𝐫𝐚𝐛𝐞𝐥𝐚 𝐋𝐞𝐨𝐧𝐭𝐞
+    <animate attributeName="opacity" from="0" to="1" dur="2.5s" fill="freeze" />
+</text>
 </svg>
