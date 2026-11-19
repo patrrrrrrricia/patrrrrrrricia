@@ -1,6 +1,6 @@
 <div align="center">
   
-# 𝐏𝐚𝐭𝐫𝐢𝐜𝐢𝐚 𝐌𝐢𝐫𝐚𝐛𝐞𝐥𝐚 𝐋𝐞𝐨𝐧𝐭𝐞
+  <img src="./banner.svg" alt="Patricia Mirabela Leonte" width="100%" />
 
 ### 𝓑𝓪𝓬𝓴𝓮𝓷𝓭 - 𝓔𝓷𝓰𝓲𝓷𝓮𝓮𝓻𝓲𝓷𝓰
 ![Java](https://img.shields.io/badge/JAVA-ECCACB?style=for-the-badge&logo=java&logoColor=3B3B3B) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-FCFAFA.svg?style=for-the-badge&logo=spring&logoColor=3B3B3B) ![MySQL](https://img.shields.io/badge/MYSQL-3B3B3B?style=for-the-badge&logo=mysql&logoColor=FCFAFA) ![VHDL](https://img.shields.io/badge/VHDL-ECCACB?style=for-the-badge&logo=circuitpython&logoColor=3B3B3B) ![Xilinx](https://img.shields.io/badge/XILINX-FCFAFA?style=for-the-badge&logo=xilinx&logoColor=3B3B3B)
